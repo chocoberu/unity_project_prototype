@@ -309,8 +309,8 @@ MonoBehaviour:
   columns: 20
   rows: 20
   wallCount:
-    minimum: 0
-    maximum: 0
+    minimum: 7
+    maximum: 15
   floorTiles:
   - {fileID: 3631221330859291104, guid: bae7bc879b6f2a44f863e27bc01585c6, type: 3}
   wallTiles:
